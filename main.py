@@ -7,3 +7,4 @@ st.markdown('## *This is a Markdown*')
 st.markdown('**This is a *Markdown* bold text**')
 
 st.caption("This is a Caption")
+st.markdown('---')

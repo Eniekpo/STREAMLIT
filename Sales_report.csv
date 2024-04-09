@@ -1,0 +1,172 @@
+Month,Rep_count,Transaction_Number,Product_Code,Product_Description,Cost_Price,Sale_Price,Profit,Commission,Attrition,Name,Gender,Education,Sale_Location
+Jan,1,"1,001",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Barr Faughny,Male,Bachelor's Degree,NM
+Jan,1,"1,002",2877,Net,11.4,16.3,4.9,0.49,No,Dennison Crosswaite,Female,Diploma,CA
+Jan,1,"1,003",2499,8 ft Hose,6.2,9.2,3,0.3,No,Gunar Cockshoot,Male,High School Diploma,AZ
+Jan,1,"1,004",8722,Water Pump,344,502,158,31.6,No,Wilone O'Kielt,Female,Bachelor's Degree,AZ
+Jan,1,"1,005",1109,Chlorine Test Kit,3,8,5,0.5,No,Gigi Bohling,Male,Master's Degree,AZ
+Jan,1,"1,006",9822,Pool Cover,58.3,98.4,,8.02,No,Curtice Advani,Female,Bachelor's Degree,AZ
+Jan,1,"1,007",1109,Chlorine Test Kit,3,8,5,0.5,No,Kaine Padly,Male,High School Diploma,Az
+Jan,1,"1,008",2877,Net,11.4,16.3,4.9,0.49,Yes,Ches Bonnell,Female,Diploma,NM
+Jan,1,"1,009",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Andria Kimpton,Male,Bachelor's Degree,AZ
+Jan,1,"1,010",2877,Net,11.4,16.3,4.9,0.49,Yes,Brien Boise,Female,Master's Degree,CO
+Jan,1,"1,011",2877,Net,,,4.9,0.49,Yes,Husein Augar,Male,High School Diploma,AZ
+Jan,1,"1,012",4421,Skimmer,45,87,42,8.4,Yes,Karlen McCaffrey,Female,Diploma,NM
+Jan,1,"1,013",9212,1 Gal Muratic Acid,4,7,3,0.3,Yes,Jan Morforth,Male,Bachelor's Degree,CO
+Jan,1,"1,014",8722,Water Pump,344,502,,31.6,Yes,Dotty Strutley,Female,Master's Degree,Co
+Jan,1,"1,015",2877,Net,11.4,16.3,4.9,0.49,Yes,Kelci Walkden,Male,Bachelor's Degree,AZ
+Jan,1,"1,016",2499,8 ft Hose,6.2,9.2,3,0.3,No,Marney O'Breen,Female,High School Diploma,CA
+Feb,1,"1,017",2242,AutoVac,60,,64,12.8,No,Rafaelita Blaksland,Female,Diploma,NM
+Feb,1,"1,018",1109,Chlorine Test Kit,3,8,5,0.5,No,Madelene Upcott,Male,Bachelor's Degree,CA
+Feb,1,"1,019",2499,8 ft Hose,6.2,9.2,3,0.3,No,Beverie Moffet,Female,Master's Degree,CO
+Feb,1,"1,020",2499,8 ft Hose,,9.2,3,0.3,No,Oby Sorrel,Male,High School Diploma,NV
+Feb,1,"1,021",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Mallorie Waber,Female,Diploma,CO
+Feb,1,"1,022",2877,Net,11.4,16.3,4.9,0.49,No,Jehu Rudeforth,Male,Bachelor's Degree,UT
+Feb,1,"1,023",1109,Chlorine Test Kit,3,8,5,0.5,No,Van Tuxwell,Female,Master's Degree,NM
+Feb,1,"1,024",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Roddy Speechley,Male,Bachelor's Degree,UT
+Feb,1,"1,025",2877,Net,11.4,16.3,4.9,0.49,No,Camilla Castle,Female,High School Diploma,NV
+Feb,1,"1,026",6119,Algea Killer 8 oz,9,14,5,0.5,No,Janene Hairsine,Male,Diploma,NM
+Feb,1,"1,027",6119,Algea Killer 8 oz,9,14,5,0.5,No,Niall Selesnick,Female,Bachelor's Degree,NV
+Feb,1,"1,028",8722,Water Pump,344,502,158,31.6,No,Ebonee Roxburgh,Male,Master's Degree,NV
+Feb,1,"1,029",2499,8 ft Hose,6.2,9.2,,0.3,Yes,Zach Polon,Female,High School Diploma,AZ
+Feb,1,"1,030",4421,Skimmer,45,87,42,8.4,Yes,Orton Livick,Male,Diploma,NV
+Feb,1,"1,031",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Gray Seamon,Female,Bachelor's Degree,CA
+Feb,1,"1,032",2877,Net,11.4,16.3,4.9,0.49,Yes,Benny Karolovsky,Male,Master's Degree,AZ
+Feb,1,"1,033",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Dyna Doucette,Female,High School Diploma,CA
+Feb,1,"1,034",2877,Net,11.4,16.3,4.9,0.49,Yes,Erin Androsik,Male,Diploma,CO
+Mar,1,"1,035",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Madge McCloughen,Female,Bachelor's Degree,CA
+Mar,1,"1,036",2499,8 ft Hose,6.2,9.2,3,0.3,No,Esmaria Denecamp,Male,Master's Degree,NV
+Mar,1,"1,037",6622,5 Gal Chlorine,42,77,35,7,No,Hogan Iles,Female,High School Diploma,NV
+Mar,1,"1,038",2499,8 ft Hose,6.2,9.2,3,0.3,No,Valentia Etteridge,Male,Diploma,NV
+Mar,1,"1,039",2877,Net,11.4,16.3,,0.49,No,Archibald Filliskirk,Female,Bachelor's Degree,CA
+Mar,1,"1,040",1109,Chlorine Test Kit,3,8,5,0.5,No,Lindy Guillet,Male,Master's Degree,AZ
+Mar,1,"1,041",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Dell Molloy,Female,High School Diploma,NM
+Mar,1,"1,042",8722,Water Pump,344,502,158,31.6,No,Ewart Laphorn,Male,Diploma,NM
+Mar,1,"1,043",2242,AutoVac,60,124,64,12.8,No,Vic Radolf,Female,Bachelor's Degree,CA
+Mar,1,"1,044",2877,Net,11.4,16.3,4.9,0.49,No,Virginia McConville,Male,High School Diploma,CA
+Mar,1,"1,045",8722,Water Pump,344,502,158,31.6,No,Kaye Crocroft,Female,Diploma,AZ
+Mar,1,"1,046",6119,Algea Killer 8 oz,9,14,5,0.5,No,Mollie Hanway,Male,Bachelor's Degree,UT
+Mar,1,"1,047",6622,5 Gal Chlorine,42,77,35,7,No,Hoyt D'Alesco,Female,Master's Degree,AZ
+Mar,1,"1,048",8722,Water Pump,344,502,158,31.6,No,Crissie Cordel,Female,Bachelor's Degree,AZ
+April,1,"1,049",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Myer McCory,Male,High School Diploma,AZ
+April,1,"1,050",2877,Net,11.4,16.3,4.9,0.49,Yes,Enoch Dowrey,Female,Diploma,AZ
+April,1,"1,051",6119,Algea Killer 8 oz,9,14,5,0.5,Yes,Kissiah Maydway,Female,Bachelor's Degree,UT
+April,1,"1,052",6622,5 Gal Chlorine,42,77,35,7,Yes,Ambros Murthwaite,Female,Master's Degree,AZ
+April,1,"1,053",2242,AutoVac,60,124,64,12.8,Yes,Torrance Collier,Male,High School Diploma,CA
+April,1,"1,054",4421,Skimmer,45,87,42,8.4,Yes,Allene Gobbet,Male,Diploma,NV
+April,1,"1,055",6119,Algea Killer 8 oz,9,14,5,0.5,Yes,Violante Courtonne,Female,Bachelor's Degree,NV
+April,1,"1,056",1109,Chlorine Test Kit,3,8,5,0.5,No,Merrilee Plenty,Male,Master's Degree,CA
+April,1,"1,057",2499,8 ft Hose,6.2,9.2,3,0.3,No,Tatum Hush,Female,High School Diploma,CA
+April,1,"1,058",6119,Algea Killer 8 oz,9,14,5,0.5,No,Kath Bletsoe,Male,Bachelor's Degree,AZ
+April,1,"1,059",2242,AutoVac,60,124,64,12.8,No,Hinda Label,Female,Diploma,AZ
+April,1,"1,060",6119,Algea Killer 8 oz,9,14,5,0.5,No,Shari McNee,Female,Bachelor's Degree,NV
+May,1,"1,061",1109,Chlorine Test Kit,3,8,5,0.5,Yes,My Hanscome,Male,Master's Degree,NV
+May,1,"1,062",2499,8 ft Hose,6.2,9.2,3,0.3,No,Drusy MacCombe,Male,High School Diploma,AZ
+May,1,"1,063",1109,Chlorine Test Kit,3,8,5,0.5,No,Halimeda Kuscha,Female,Diploma,CA
+May,1,"1,064",2499,8 ft Hose,6.2,9.2,3,0.3,No,William Reeveley,Male,Bachelor's Degree,AZ
+May,1,"1,065",2499,8 ft Hose,6.2,9.2,3,0.3,No,Tracy Renad,Female,Master's Degree,NM
+May,1,"1,066",2877,Net,11.4,16.3,4.9,0.49,No,Kassi Jonson,Male,High School Diploma,NV
+May,1,"1,067",2877,Net,11.4,16.3,4.9,0.49,No,Constantino Espley,Female,Bachelor's Degree,UT
+May,1,"1,068",6119,Algea Killer 8 oz,9,14,5,0.5,No,Mollie Hanway,Female,Diploma,CA
+May,1,"1,069",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Gretchen Callow,Male,Bachelor's Degree,AZ
+May,1,"1,070",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Bev Lashley,Female,High School Diploma,AZ
+May,1,"1,071",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Sibyl Dunkirk,Male,Diploma,AZ
+May,1,"1,072",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Trio Lipa,Female,Bachelor's Degree,NV
+May,1,"1,073",6622,5 Gal Chlorine,42,77,35,7,Yes,Shayne Stegel,Male,Master's Degree,CA
+May,1,"1,074",2877,Net,11.4,16.3,4.9,0.49,Yes,Hyacinthie Braybrooke,Female,High School Diploma,AZ
+May,1,"1,075",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Agnes Collicott,Female,Diploma,CA
+May,1,"1,076",1109,Chlorine Test Kit,3,8,5,0.5,No,Teressa Udden,Male,Bachelor's Degree,AZ
+May,1,"1,077",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Bennie Pepis,Female,High School Diploma,AZ
+May,1,"1,078",2877,Net,11.4,16.3,4.9,0.49,No,Elia Cockton,Female,Diploma,NV
+June,1,"1,079",2877,Net,11.4,16.3,4.9,0.49,No,A R Rahadude,Female,Bachelor's Degree,NM
+June,1,"1,080",4421,Skimmer,45,87,42,8.4,No,Murry Dryburgh,Male,Master's Degree,CA
+June,1,"1,081",6119,Algea Killer 8 oz,9,14,5,0.5,Yes,Mahalia Larcher,Female,High School Diploma,UT
+June,1,"1,082",1109,Chlorine Test Kit,3,8,5,0.5,Yes,Bili Sizey,Female,Diploma,CA
+June,1,"1,083",1109,Chlorine Test Kit,3,8,5,0.5,No,Lilyan Klimpt,Male,Bachelor's Degree,NV
+June,1,"1,084",6119,Algea Killer 8 oz,9,14,5,0.5,No,Almond Joy,Female,Master's Degree,AZ
+June,1,"1,085",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Leilah Yesinin,Male,High School Diploma,NV
+June,1,"1,086",1109,Chlorine Test Kit,3,8,5,0.5,No,Collin Jagson,Female,Diploma,AZ
+June,1,"1,087",2499,8 ft Hose,6.2,9.2,3,0.3,No,Kellsie Waby,Male,Bachelor's Degree,CA
+June,1,"1,088",2499,8 ft Hose,6.2,9.2,3,0.3,No,Simon Kembery,Female,High School Diploma,NM
+June,1,"1,089",6119,Algea Killer 8 oz,9,14,5,0.5,No,Tawnya Tickel,Male,Diploma,NV
+June,1,"1,090",2877,Net,11.4,16.3,4.9,0.49,Yes,Bernie Gorges,Female,Bachelor's Degree,CA
+June,1,"1,091",2877,Net,11.4,16.3,4.9,0.49,Yes,Florinda Crace,Male,Master's Degree,NV
+June,1,"1,092",2877,Net,11.4,16.3,4.9,0.49,Yes,Oran Buxcy,Male,High School Diploma,CA
+June,1,"1,093",6119,Algea Killer 8 oz,9,14,5,0.5,Yes,Anvi Verma,Female,Diploma,AZ
+June,1,"1,094",6119,Algea Killer 8 oz,9,14,5,0.5,Yes,Zara Mishra,Female,Bachelor's Degree,CA
+June,1,"1,095",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Dev Joshi,Male,Master's Degree,AZ
+June,1,"1,096",6119,Algea Killer 8 oz,9,14,5,0.5,No,Pari Sharma,Female,High School Diploma,AZ
+June,1,"1,097",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Aanya Kapoor,Female,Bachelor's Degree,NV
+June,1,"1,098",2877,Net,11.4,16.3,4.9,0.49,No,Kiara Choudhary,Female,Diploma,NM
+July,1,"1,099",2877,Net,11.4,16.3,4.9,0.49,No,Reyansh Iyer,Male,Bachelor's Degree,CA
+July,1,"1,100",6119,Algea Killer 8 oz,9,14,5,0.5,No,Samaira Agarwal,Female,High School Diploma,UT
+July,1,"1,101",2499,8 ft Hose,6.2,9.2,3,0.3,Yes,Avani Malhotra,Female,Diploma,CA
+July,1,"1,102",2242,AutoVac,60,124,64,12.8,Yes,Kiaan Rana,Male,Bachelor's Degree,NV
+July,1,"1,103",2877,Net,11.4,16.3,4.9,0.49,Yes,Aarav Shah,Male,Master's Degree,AZ
+July,1,"1,104",2877,Net,11.4,16.3,4.9,0.49,Yes,Anaya Gupta,Female,High School Diploma,NV
+July,1,"1,105",2499,8 ft Hose,6.2,9.2,3,0.3,No,Munch Munch,Male,Diploma,AZ
+July,1,"1,106",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Siya Trivedi,Female,Bachelor's Degree,CA
+July,1,"1,107",1109,Chlorine Test Kit,3,8,5,0.5,No,Kabir Kapoor,Male,High School Diploma,NM
+July,1,"1,108",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Rhea Saxena,Female,Diploma,NV
+July,1,"1,109",8722,Water Pump,344,502,158,31.6,No,Advait Sharma,Male,Bachelor's Degree,CA
+July,1,"1,110",8722,Water Pump,344,502,158,31.6,No,Aarush Mishra,Male,Master's Degree,NV
+July,1,"1,111",6622,5 Gal Chlorine,42,77,35,7,No,Anika Chawla,Female,High School Diploma,CA
+July,1,"1,112",6622,5 Gal Chlorine,42,77,35,7,Yes,Zara Verma,Female,Diploma,AZ
+July,1,"1,113",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Dev Agarwal,Male,Bachelor's Degree,CA
+July,1,"1,114",2242,AutoVac,60,124,64,12.8,Yes,Pari Kumar,Female,Master's Degree,AZ
+July,1,"1,115",8722,Water Pump,344,502,158,31.6,Yes,Aanya Singh,Female,High School Diploma,AZ
+July,1,"1,116",6622,5 Gal Chlorine,42,77,35,7,No,Kiara Joshi,Female,Diploma,NV
+July,1,"1,117",8722,Water Pump,344,502,158,31.6,No,Reyansh Malhotra,Male,Bachelor's Degree,NM
+July,1,"1,118",9822,Pool Cover,58.3,98.4,40.1,8.02,No,M&M Peanut,Female,High School Diploma,CA
+July,1,"1,119",2242,AutoVac,60,124,64,12.8,No,Avani Agarwal,Female,Diploma,UT
+July,1,"1,120",2242,AutoVac,60,124,64,12.8,No,Nestle Crunch,Male,Bachelor's Degree,CA
+July,1,"1,121",4421,Skimmer,45,87,42,8.4,Yes,Aarav Verma,Male,Master's Degree,NV
+July,1,"1,122",8722,Water Pump,344,502,158,31.6,Yes,Anaya Choudhary,Female,High School Diploma,AZ
+July,1,"1,123",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Krish Trivedi,Male,Diploma,NV
+July,1,"1,124",4421,Skimmer,45,87,42,8.4,No,Siya Rawat,Female,Bachelor's Degree,AZ
+Aug,1,"1,125",2242,AutoVac,60,124,64,12.8,No,Kabir Shah,Male,High School Diploma,CA
+Aug,1,"1,126",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Rhea Bhatia,Female,Diploma,NM
+Aug,1,"1,127",8722,Water Pump,344,502,158,31.6,No,Advait Kumar,Male,Bachelor's Degree,NV
+Aug,1,"1,128",6622,5 Gal Chlorine,42,77,35,7,No,Aarush Verma,Male,Master's Degree,CA
+Aug,1,"1,129",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Anika Singh,Female,High School Diploma,NV
+Aug,1,"1,130",4421,Skimmer,45,87,42,8.4,Yes,Zara Chawla,Female,Diploma,CA
+Aug,1,"1,131",9212,1 Gal Muratic Acid,4,7,3,0.3,Yes,Dev Joshi,Male,Bachelor's Degree,AZ
+Aug,1,"1,132",9212,1 Gal Muratic Acid,4,7,3,0.3,Yes,Pari Gupta,Female,Master's Degree,CA
+Aug,1,"1,133",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Aanya Trivedi,Female,High School Diploma,AZ
+Aug,1,"1,134",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Kiara Bhatia,Female,Diploma,AZ
+Aug,1,"1,135",8722,Water Pump,344,502,158,31.6,Yes,Reyansh Rana,Male,Bachelor's Degree,NV
+Aug,1,"1,136",2242,AutoVac,60,124,64,12.8,No,Lindt Truffle,Female,High School Diploma,NM
+Aug,1,"1,137",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Avani Iyer,Female,Diploma,CA
+Aug,1,"1,138",8722,Water Pump,344,502,158,31.6,No,Kiaan Shah,Male,Bachelor's Degree,UT
+Aug,1,"1,139",4421,Skimmer,45,87,42,8.4,No,Oreo Delight,Male,Master's Degree,CA
+Aug,1,"1,140",4421,Skimmer,45,87,42,8.4,No,Anaya Agarwal,Female,High School Diploma,NV
+Aug,1,"1,141",9212,1 Gal Muratic Acid,4,7,3,0.3,Yes,Krish Rawat,Male,Diploma,AZ
+Sept,1,"1,142",2242,AutoVac,60,124,64,12.8,Yes,Siya Sharma,Female,Bachelor's Degree,NV
+Sept,1,"1,143",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Kabir Trivedi,Male,High School Diploma,AZ
+Sept,1,"1,144",2242,AutoVac,60,124,64,12.8,Yes,Rhea Malhotra,Female,Diploma,CA
+Sept,1,"1,145",4421,Skimmer,45,87,42,8.4,No,Advait Kapoor,Male,Bachelor's Degree,NM
+Sept,1,"1,146",8722,Water Pump,344,502,158,31.6,No,Zagnut Nut,Male,Master's Degree,NV
+Sept,1,"1,147",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Anika Joshi,Female,High School Diploma,CA
+Sept,1,"1,148",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Zara Verma,Female,Diploma,AZ
+Sept,1,"1,149",8722,Water Pump,344,502,158,31.6,No,Dev Chawla,Male,Bachelor's Degree,AZ
+Oct,1,"1,150",2242,AutoVac,60,124,64,12.8,No,Pari Gupta,Female,Master's Degree,UT
+Oct,1,"1,151",2242,AutoVac,60,124,64,12.8,No,Aanya Singh,Female,High School Diploma,CA
+Oct,1,"1,152",4421,Skimmer,45,87,42,8.4,Yes,Kiara Bhatia,Female,Diploma,NV
+Oct,1,"1,153",8722,Water Pump,344,502,158,31.6,Yes,Reyansh Rana,Male,Bachelor's Degree,AZ
+Oct,1,"1,154",9822,Pool Cover,58.3,98.4,40.1,8.02,Yes,Eltin John,Female,High School Diploma,NV
+Oct,1,"1,155",4421,Skimmer,45,87,42,8.4,Yes,Avani Iyer,Female,Diploma,AZ
+Oct,1,"1,156",2242,AutoVac,60,124,64,12.8,No,Kiaan Shah,Male,Bachelor's Degree,CA
+Oct,1,"1,157",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Michael Walkson,Male,Master's Degree,NM
+Nov,1,"1,158",8722,Water Pump,344,502,158,31.6,No,Anaya Agarwal,Female,High School Diploma,NV
+Nov,1,"1,159",6622,5 Gal Chlorine,42,77,35,7,No,Krish Rawat,Male,Diploma,CA
+Nov,1,"1,160",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Siya Sharma,Female,Bachelor's Degree,NV
+Nov,1,"1,161",4421,Skimmer,45,87,42,8.4,Yes,Kabir Trivedi,Male,High School Diploma,CA
+Nov,1,"1,162",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Reyansh Rana,Male,Bachelor's Degree,AZ
+Nov,1,"1,163",9212,1 Gal Muratic Acid,4,7,3,0.3,No,Eltin John,Female,High School Diploma,CA
+Nov,1,"1,164",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Avani Iyer,Female,Diploma,AZ
+Nov,1,"1,165",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Kiaan Shah,Male,Bachelor's Degree,AZ
+Nov,1,"1,166",8722,Water Pump,344,502,158,31.6,No,Michael Walkson,Male,Master's Degree,NV
+Dec,1,"1,167",2242,AutoVac,60,124,64,12.8,No,Anaya Agarwal,Female,High School Diploma,NM
+Dec,1,"1,168",9822,Pool Cover,58.3,98.4,40.1,8.02,No,Krish Rawat,Male,Diploma,CA
+Dec,1,"1,169",8722,Water Pump,344,502,158,31.6,Yes,Siya Sharma,Female,Bachelor's Degree,UT
+Dec,1,"1,170",4421,Skimmer,45,87,42,8.4,Yes,Kabir Trivedi,Male,High School Diploma,CA
+Dec,1,"1,171",4421,Skimmer,45,87,42,8.4,Yes,Reyansh Rana,Male,Bachelor's Degree,NV

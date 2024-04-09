@@ -32,3 +32,13 @@ if st.checkbox('Show raw data'):
 
 
 st.subheader('Profit By Location')
+# Sample data
+data = {
+    'Category': ['A', 'B', 'C', 'D', 'E'],
+    'Values': [20, 30, 25, 35, 40]
+}
+# Convert data to DataFrame
+df = pd.DataFrame(data)
+
+# Display bar chart
+st.bar_chart(df.set_index('Category'))

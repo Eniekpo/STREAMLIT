@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon=":file_folder:",
     )
 
-st.title(" :pie_chart: YOLETECH HUB DATA ANALYTICS")
+st.title(" :bar_chart: YOLETECH HUB DATA ANALYTICS")
 st.markdown('<style>div.block-container{padding-top: 1rem;}</style>', unsafe_allow_html=True)
 
 # Loading The Data 
@@ -75,4 +75,3 @@ data1['layout'].update(title="Relationship between Sales and Profits using Scatt
                        titlefont = dict(size=20),xaxis = dict(title="Profit",titlefont=dict(size=19)),
                        yaxis = dict(title = "Profit", titlefont = dict(size=19)))
 st.plotly_chart(data1,use_container_width=True)
-

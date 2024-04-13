@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon=":file_folder:",
     )
 
-st.title(" :bar_chart: YOLETECH HUB DATA ANALYTICS")
+st.title(" :pie_chart: YOLETECH HUB DATA ANALYTICS")
 st.markdown('<style>div.block-container{padding-top: 1rem;}</style>', unsafe_allow_html=True)
 
 # Loading The Data 

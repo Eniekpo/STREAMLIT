@@ -44,26 +44,28 @@ csv = data.to_csv(index = False).encode('utf-8')
 st.download_button('Download Data', data = csv, file_name = "Data.csv",mime = "text/csv")
 
 st.subheader('SALES DASHBOARD')
+chart1, chart2 = st.columns((2))
 
-# Draw a Pie Chart
-st.header('Profit By Month')
+with chart1:
+    # Draw a Pie Chart
+    st.subheader(':point_right: Profit By Month')
 
-fig = px.pie(data, values = 'profit', names='month', hole=0.5)
-fig.update_traces(text=data['profit'], textposition='outside')
-st.plotly_chart(fig, use_container_width=True)
-
-# A bar Chart
-st.subheader("Profit By Location")
-fig = px.bar(data, x = 'sale_location', y = 'profit' ,template='seaborn')
-st.plotly_chart(fig, use_container_width=True, height = 200)
+    fig = px.pie(data, values = 'profit', names='month', hole=0.5)
+    fig.update_traces(text=data['profit'], textposition='outside')
+    st.plotly_chart(fig, use_container_width=True)
+with chart2:
+    # A bar Chart
+    st.subheader(":point_right: Profit By Location")
+    fig = px.bar(data, x = 'sale_location', y = 'profit' ,template='seaborn')
+    st.plotly_chart(fig, use_container_width=True, height = 200)
 
 # A Column Chart
-st.subheader('Profit By Education')
+st.subheader(':point_right: Profit By Education')
 fig = px.bar(data, x = 'education', y = 'profit' ,template='seaborn')
 st.plotly_chart(fig, use_container_width=True, height = 200)
 
 # Create a treemap based on Region, Category and Sub-Category
-st.subheader('Hierachical view of Profit using TreeMap')
+st.subheader(':point_right: Hierachical view of Profit using TreeMap')
 fig = px.treemap(data, path=['month', 'sale_location', 'education'], values='profit', hover_data=['profit'],
                   color='education')
 fig.update_layout(width=800, height=650)
